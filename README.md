@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm currently working on my degree.
+Currently learning R Studio
+I will learn Python next semester
 
 <!--
 **teddyrb/teddyrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
